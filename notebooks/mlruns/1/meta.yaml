@@ -1,0 +1,4 @@
+artifact_location: file:///Users/pavel/iris/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Iris_dataset_experiment_v1

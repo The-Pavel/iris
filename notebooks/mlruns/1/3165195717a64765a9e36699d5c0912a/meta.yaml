@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pavel/iris/notebooks/mlruns/1/3165195717a64765a9e36699d5c0912a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3165195717a64765a9e36699d5c0912a
+run_uuid: 3165195717a64765a9e36699d5c0912a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626748025084
+status: 1
+tags: []
+user_id: unknown
